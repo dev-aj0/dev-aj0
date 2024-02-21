@@ -1,4 +1,5 @@
-# Hi there, I'm AJ, a 15 y/o in Gr 9! 👋
+# Hey, I'm AJ, a 9th Grader! 👋
+
 
 - 🧠 I coded telepathy using EEG BCIs (yet to upload that to GitHub)
 - 💬 "Crazy enough to use vscode to take notes in a debate tournament" - My Judge For That Round
