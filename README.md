@@ -7,6 +7,7 @@
 - 🧑‍💻 I participate in hackathons
 - 🖥️ I am extremely fluent in python and use flutter lots
 - ⬆️ I NEED TO UPLOAD A LOT OF PROJECTS TO GITHUB!
+- 💀 I'M BAD TO THE BONE  
 
 ## Languages & Tools I'm Familiar With:
 
