@@ -16,7 +16,9 @@
 [<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />][kotlin]
 [<img align="left" alt="HTML" width="26px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" />][html]
 [<img align="left" alt="CSS" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" />][css]
+[<img align="left" alt="js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" />][js]
 [<img align="left" alt="Unity" width="26px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />][unity]
+[<img align="left" alt="Godot" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />][godot]
 
 <br />
 
@@ -30,6 +32,8 @@
 <br />
 
 ---
+[godot]: https://godotengine.org/
+[js]: https://www.javascript.com/
 [twitter]: https://twitter.com/shandilyaaj
 [medium]: https://medium.com/@shandilyaabhijay
 [youtube]: https://www.youtube.com/channel/UC3W3rrfbMBhHsTDzt6Gpktw
