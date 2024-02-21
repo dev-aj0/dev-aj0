@@ -1,14 +1,13 @@
-### Hi there, I'm AJ, a 15 y/o in Gr 9! 👋
+# Hi there, I'm AJ, a 15 y/o in Gr 9! 👋
 
 - 🧠 I coded telepathy using EEG BCIs (yet to upload that to GitHub)
 - 💬 "Crazy enough to use vscode to take notes in a debate tournament" - My Judge For That Round
 - 📱 I love making games and apps for both desktop and mobile alike
 - 🧑‍💻 I participate in hackathons
 - 🖥️ I am extremely fluent in python and use flutter lots
+- ⬆️ I NEED TO UPLOAD A LOT OF PROJECTS TO GITHUB!
 
-###I Need To Upload Many Projects!!!
-
-### Languages & Tools I'm Familiar With:
+## Languages & Tools I'm Familiar With:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][vscode]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />][py]
@@ -20,7 +19,7 @@
 
 <br />
 
-### My Socials:
+## My Socials:
 
 [<img align="left" alt="aj youtube" width="26px" src="https://www.svgrepo.com/show/448261/youtube.svg" />][youtube]
 [<img align="left" alt="aj twitter" width="26px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />][twitter]
