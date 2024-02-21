@@ -4,7 +4,7 @@
 - 💬 "Crazy enough to use vscode to take notes in a debate tournament" - My Judge For That Round
 - 📱 I love making games and apps for both desktop and mobile alike
 - 🧑‍💻 I participate in hackathons
-- 🖥️ I am extremely fluent in python and use flutter lots but below is a list of languages I've used fairly enough:
+- 🖥️ I am extremely fluent in python and use flutter lots
 
 ### Languages & Tools I'm Familiar With:
 
