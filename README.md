@@ -30,12 +30,14 @@
 [<img align="left" alt="aj youtube" width="26px" src="https://www.svgrepo.com/show/448261/youtube.svg" />][youtube]
 [<img align="left" alt="aj twitter" width="26px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />][twitter]
 [<img align="left" alt="aj medium" width="26px" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" />][medium]
-[<img align="left" alt="aj medium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
+[<img align="left" alt="aj linkedin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
+[<img align="left" alt="aj instagram" width="26px" src="https://commons.wikimedia.org/wiki/File:Instagram_logo_2016.svg" />][instagram]
 
 <br />
 <br />
 
 ---
+[instagram]: https://www.instagram.com/aj_shand/
 [linkedin]: https://www.linkedin.com/in/abhijay-s-a204272ba/
 [cplusplus]: https://cplusplus.com/
 [csharp]: https://www.w3schools.com/cs/index.php
