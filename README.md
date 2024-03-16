@@ -1,7 +1,6 @@
 # Hey, I'm AJ, a 9th Grader! 👋
 
-
-- 🧠 I coded telepathy using EEG BCIs (yet to upload that to GitHub)
+- 🧠 I coded telepathy using EEG BCIs
 - 💬 "Crazy enough to use vscode to take notes in a debate tournament" - My Judge For That Round
 - 📱 I love making games and apps for both desktop and mobile alike
 - 🧑‍💻 I participate in hackathons
