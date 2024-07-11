@@ -1,4 +1,4 @@
-# Hey, I'm AJ, a 9th Grader! 👋
+# Hey, I'm AJ, a 10th Grader! 👋
 
 - 🧠 I coded telepathy using EEG BCIs
 - 📱 I love making games and apps for both desktop and mobile alike
