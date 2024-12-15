@@ -2,8 +2,9 @@
 
 - 🧠 I coded telepathy using EEG BCIs
 - 📱 I love making games and apps for both desktop and mobile alike
-- 🧑‍💻 I participate in hackathons
+- 🧑‍💻 I love to participate in hackathons
 - 🖥️ I am extremely fluent in python and use flutter lots
+- 🔥 I enjoy making ideas practical (I'll make a company out of it)
 - ⬆️ I NEED TO UPLOAD A LOT OF PROJECTS TO GITHUB!
 
 ## Languages & Tools I'm Familiar With:
