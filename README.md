@@ -49,7 +49,7 @@
 [unreal]: https://www.unrealengine.com/en-US
 [godot]: https://godotengine.org/
 [js]: https://www.javascript.com/
-[twitter]: https://twitter.com/shandilyaaj
+[twitter]: https://x.com/aj_shandilya
 [medium]: https://medium.com/@shandilyaabhijay
 [youtube]: https://www.youtube.com/channel/UC3W3rrfbMBhHsTDzt6Gpktw
 [instagram]: https://www.instagram.com/_ajajaj.s/
