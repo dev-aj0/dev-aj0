@@ -53,7 +53,7 @@
 [twitter]: https://twitter.com/shandilyaaj
 [medium]: https://medium.com/@shandilyaabhijay
 [youtube]: https://www.youtube.com/channel/UC3W3rrfbMBhHsTDzt6Gpktw
-[instagram]: https://www.instagram.com/rohanht_/?hl=ur
+[instagram]: https://www.instagram.com/_ajajaj.s/
 [vscode]: https://code.visualstudio.com/
 [html]: https://www.w3schools.com/html/html_intro.asp
 [css]: https://www.w3schools.com/css/
