@@ -15,7 +15,6 @@
 [<img align="left" alt="HTML" width="26px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" />][html]
 [<img align="left" alt="js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" />][js]
 [<img align="left" alt="react" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />][react]
-[<img align="left" alt="node.js" width="26px" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" />][node]
 [<img align="left" alt="c++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />][cplusplus]
 [<img align="left" alt="Unity" width="26px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />][unity]
 [<img align="left" alt="Unreal" width="26px" src="https://docs.ultraleap.com/_images/unreal-logo.png" />][unreal]
