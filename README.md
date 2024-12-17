@@ -1,11 +1,9 @@
 # Hey, I'm AJ, a 10th Grader! 👋
 
-- 🧠 I coded telepathy using EEG BCIs
-- 📱 I love making games and apps for both desktop and mobile alike
-- 🧑‍💻 I love to participate in hackathons
-- 🖥️ I am extremely fluent in python and use flutter lots
-- 🔥 I enjoy making ideas practical (I'll make a company out of it)
-- ⬆️ I NEED TO UPLOAD A LOT OF PROJECTS TO GITHUB!
+- 🧠 i made "telepathy" w/ brain computer interfaces
+- 📱 i make apps and games for both desktop and mobile alike
+- 🧑‍💻 i enjoy participating in hackathons
+- 🔥 i enjoy making ideas practical (i'll make a startup out of it)
 
 ## Languages & Tools I'm Familiar With:
 
