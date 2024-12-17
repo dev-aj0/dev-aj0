@@ -3,7 +3,7 @@
 - 🧠 I made "telepathy" w/ brain computer interfaces
 - 📱 I make apps and games for both desktop and mobile alike
 - 🧑‍💻 I enjoy participating in hackathons
-- 🔥 I enjoy making ideas practical (i'll make a startup out of it)
+- 🔥 I make ideas practical (i'll make a startup out of it)
 
 ## Languages & Tools I'm Familiar With:
 
