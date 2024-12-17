@@ -1,9 +1,9 @@
 # Hey, I'm AJ, a 10th Grader! 👋
 
-- 🧠 i made "telepathy" w/ brain computer interfaces
-- 📱 i make apps and games for both desktop and mobile alike
-- 🧑‍💻 i enjoy participating in hackathons
-- 🔥 i enjoy making ideas practical (i'll make a startup out of it)
+- 🧠 I made "telepathy" w/ brain computer interfaces
+- 📱 I make apps and games for both desktop and mobile alike
+- 🧑‍💻 I enjoy participating in hackathons
+- 🔥 I enjoy making ideas practical (i'll make a startup out of it)
 
 ## Languages & Tools I'm Familiar With:
 
