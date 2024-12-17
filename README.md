@@ -1,4 +1,4 @@
-# Hey, I'm AJ, a 10th Grader! 👋
+# I'm AJ, a 10th Grader 👋
 
 - 🧠 I made "telepathy" w/ brain computer interfaces
 - 📱 I make apps and games for both desktop and mobile alike
