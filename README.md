@@ -5,6 +5,9 @@
 - 🧑‍💻 I enjoy participating in hackathons
 - 🔥 I make ideas practical (i'll make a startup out of it)
 
+I am co-founding a startup (Clarus). Check it out here: https://clarusapp.org/
+I am the co-owner of a game dev studio. Check it out here: https://xdevstudio.com/
+
 ## Languages & Tools I'm Familiar With:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][vscode]
