@@ -6,6 +6,8 @@
 - 🔥 I make ideas practical (i'll make a startup out of it)
 
 I am co-founding a startup (Clarus). Check it out here: https://clarusapp.org/
+
+
 I am the co-owner of a game dev studio. Check it out here: https://xdevstudio.com/
 
 ## Languages & Tools I'm Familiar With:
