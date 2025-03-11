@@ -1,64 +1,23 @@
-# I'm AJ, a 10th Grader 👋
-
-- 🧠 I made "telepathy" w/ brain computer interfaces
-- 📱 I make apps and games for both desktop and mobile alike
-- 🧑‍💻 I enjoy participating in hackathons
-- 🔥 I make ideas practical (i'll make a startup out of it)
-
-I am co-founding a startup (Clarus). Check it out here: https://clarusapp.org/
-
-
-I am the co-owner of a game dev studio. Check it out here: https://xdevstudio.com/
-
-## Languages & Tools I'm Familiar With:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][vscode]
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />][py]
-[<img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" />][java]
-[<img align="left" alt="Flutter" width="26px" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" />][flutter]
-[<img align="left" alt="HTML" width="26px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" />][html]
-[<img align="left" alt="js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" />][js]
-[<img align="left" alt="react" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />][react]
-[<img align="left" alt="c++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />][cplusplus]
-[<img align="left" alt="Unity" width="26px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />][unity]
-[<img align="left" alt="Unreal" width="26px" src="https://docs.ultraleap.com/_images/unreal-logo.png" />][unreal]
+# abhijay shandilya
+[![Website Badge](https://img.shields.io/badge/website-abhijayshandilya.com-blue)](https://www.abhijayshandilya.com/)
+- highschool student (aspiring cs student)
+- exploring:
+  - neuroscience (brain computer interfaces)
+  - ml/ai (llms, nlp, cnns)
+  - game dev (unity, unreal)
+- ventures:
+  - [clarus](https://clarusapp.org/)
+  - [xdev](https://xdevstudio.com/)
+  - [venture scout @ lvlup](https://www.lvlup.vc/)
+- recently:
+  - interned at a [y-combinator startup](https://www.ycombinator.com/companies/rally/jobs/0Lx6nao-founding-engineer-slayschool-com)
+    - created an ai email marketing assistant
+  - [clarus](https://clarusapp.org/) now backed by microsoft 
+  - created a [program](https://github.com/dev-aj0/blink-action) that converts brain (alpha/beta) waves into computer action
 
 <br />
-
-## My Socials:
 
 [<img align="left" alt="aj youtube" width="26px" src="https://www.svgrepo.com/show/448261/youtube.svg" />][youtube]
 [<img align="left" alt="aj twitter" width="26px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />][twitter]
 [<img align="left" alt="aj medium" width="26px" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" />][medium]
 [<img align="left" alt="aj linkedin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
-
-<br />
-
-### [My Personal Website](https://abhijayshandilya.com/)
-
----
-[java]: https://www.java.com/en/
-[vercel]: https://vercel.com/abhijay-shandilyas-projects
-[node]: https://nodejs.org/en
-[react]: https://react.dev/
-[instagram]: https://www.instagram.com/aj_shand/
-[linkedin]: https://www.linkedin.com/in/abhijay-s-a204272ba/
-[cplusplus]: https://cplusplus.com/
-[csharp]: https://www.w3schools.com/cs/index.php
-[unreal]: https://www.unrealengine.com/en-US
-[godot]: https://godotengine.org/
-[js]: https://www.javascript.com/
-[twitter]: https://x.com/aj_shandilya
-[medium]: https://medium.com/@shandilyaabhijay
-[youtube]: https://www.youtube.com/channel/UC3W3rrfbMBhHsTDzt6Gpktw
-[instagram]: https://www.instagram.com/_ajajaj.s/
-[vscode]: https://code.visualstudio.com/
-[html]: https://www.w3schools.com/html/html_intro.asp
-[css]: https://www.w3schools.com/css/
-[py]: https://www.python.org/
-[node]: https://nodejs.org/en
-[flutter]: https://flutter.dev/
-[unity]: https://unity.com/
-[kotlin]: https://kotlinlang.org/
-[css]: https://en.wikipedia.org/wiki/CSS
-[node]: https://nodejs.org/en/
