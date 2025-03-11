@@ -17,7 +17,7 @@
 
 <br />
 
-[<img align="left" alt="aj youtube" width="26px" src="https://www.svgrepo.com/show/448261/youtube.svg" />][youtube]
-[<img align="left" alt="aj twitter" width="26px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />][twitter]
-[<img align="left" alt="aj medium" width="26px" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" />][medium]
-[<img align="left" alt="aj linkedin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
+[<img align="left" alt="aj youtube" width="26px" src="https://www.svgrepo.com/show/448261/youtube.svg" />](https://www.youtube.com/@neuro-aj)
+[<img align="left" alt="aj twitter" width="26px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />](https://x.com/aj_shandilya)
+[<img align="left" alt="aj medium" width="26px" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" />](https://medium.com/@shandilyaabhijay)
+[<img align="left" alt="aj linkedin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />](https://www.linkedin.com/in/abhijayshandilya/)
