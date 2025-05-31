@@ -4,7 +4,7 @@
 - exploring:
   - neuroscience (brain computer interfaces)
   - ml/ai (llms, nlp, cnns)
-  - game dev (unity, unreal)
+  - game dev (python, godot, unity, unreal)
 - ventures:
   - [clarus](https://clarusapp.org/)
   - [xdev](https://xdevstudio.com/)
