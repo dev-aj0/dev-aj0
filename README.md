@@ -14,7 +14,6 @@
     - created an ai email marketing assistant
   - [clarus](https://clarusapp.org/) now part of the microsoft startup program 
   - created a [program](https://github.com/dev-aj0/blink-action) that converts brain (alpha/beta) waves into computer action
-  - created a [program](https://pitchgenai.netlify.app/) that converts your project on GitHub into a pitch-ready presentation
 
 <br />
 
