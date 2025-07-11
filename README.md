@@ -6,7 +6,7 @@
   - ml/ai (llms, nlp, cnns)
   - game dev (python, godot, unity, unreal)
 - ventures:
-  - [clarus](https://clarusapp.org/)
+  - [clarus](https://clarus-ai.onrender.com/)
   - [xdev](https://xdevstudio.com/)
   - [venture scout @ lvlup](https://www.lvlup.vc/)
 - recently:
