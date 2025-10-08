@@ -1,5 +1,5 @@
 # abhijay shandilya
-[![Website Badge](https://img.shields.io/badge/website-abhijayshandilya.com-blue)](https://www.abhijayshandilya.com/)
+[![Website Badge](https://img.shields.io/badge/website-abhijayshandilya.com-blue)](https://www.abhijayshandilya.ca/)
 - highschool student (aspiring cs student)
 - exploring:
   - neuroscience (brain computer interfaces)
