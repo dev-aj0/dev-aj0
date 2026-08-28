@@ -1,9 +1,5 @@
 # aj
-- highschool student (aspiring cs student)
-- exploring:
-  - neuroscience (brain computer interfaces)
-  - ml/ai (agents, llms, nlp, cnns)
-  - game dev (python, godot, unity, unreal)
+Look at my repos for my technical skills, but I want to get into game dev and film (horror naybe)
 - ventures:
   - [rainmakr](https://userainmakr.com/)
   - [driftnote](https://driftnote.ink/)
