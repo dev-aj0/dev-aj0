@@ -1,4 +1,4 @@
-# abhijay shandilya
+# aj
 [![Website Badge](https://img.shields.io/badge/website-abhijayshandilya.ca-blue)](https://www.abhijayshandilya.ca/)
 - highschool student (aspiring cs student)
 - exploring:
