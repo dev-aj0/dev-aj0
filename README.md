@@ -1,5 +1,5 @@
 # aj
-Look at my repos for my technical skills, but I want to get into game dev and film (horror naybe)
+Look at my repos for what I do, but I want to get into game dev and film (horror naybe)
 - ventures:
   - [rainmakr](https://userainmakr.com/)
   - [driftnote](https://driftnote.ink/)
