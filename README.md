@@ -5,14 +5,9 @@
   - ml/ai (agents, llms, nlp, cnns)
   - game dev (python, godot, unity, unreal)
 - ventures:
-  - [scalr](https://scalrapp.vercel.app/)
-  - [xdev](https://xdevstudio.com/)
+  - [rainmakr](https://userainmakr.com/)
+  - [driftnote](https://driftnote.ink/)
   - [venture scout @ lvlup](https://www.lvlup.vc/)
-- recently:
-  - interned at a [y-combinator startup](https://www.ycombinator.com/companies/rally/jobs/0Lx6nao-founding-engineer-slayschool-com)
-    - created an ai email marketing assistant
-  - created a [program](https://github.com/dev-aj0/blink-action) that converts brain (alpha/beta) waves into computer action
-
 <br />
 
 [<img align="left" alt="aj youtube" width="26px" src="https://www.svgrepo.com/show/448261/youtube.svg" />](https://www.youtube.com/@neuro-aj)
